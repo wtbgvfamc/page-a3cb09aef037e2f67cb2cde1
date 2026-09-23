@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://xn--v2rayn-np7iw185b.com/sitemap.xml
